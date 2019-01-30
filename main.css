@@ -1,0 +1,14 @@
+div.ex1 {
+    max-width: 650px;
+    margin: auto;
+    padding: 20px;
+    border: 2px dashed black
+}
+
+div.vid {
+    margin: 5px 25px;
+}
+
+div.head{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
