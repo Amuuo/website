@@ -23,3 +23,13 @@ video.fade {
     height: auto;
     object-fit: cover;
 }
+
+div.main {
+    margin: 100px;
+    vertical-align: center;
+}
+
+video.test{
+    margin: 100px;
+    vertical-align: center;
+}
