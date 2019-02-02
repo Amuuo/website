@@ -18,7 +18,8 @@ h1.main {
     font: "Ubuntu Mono";
 }
 
-video.fade {
+video.fade {    
+    
     width: 750px;
     height: auto;
     object-fit: cover;
@@ -26,10 +27,23 @@ video.fade {
 
 div.main {
     margin: 100px;
-    vertical-align: center;
+    vertical-align: center;    
 }
 
-video.test{
-    margin: 100px;
-    vertical-align: center;
+.test_shadow { 
+    max-width: 100%; 
+    min-width: 25%;    
+    max-height: 33%;     
+    box-shadow: 0px 7px 10px 0px rgba(0, 0, 0, .6); 
+    padding: 2px;
+}
+
+
+table {            
+    width: 61.8%;
+    height: 61.8%;       
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }

@@ -1,14 +1,26 @@
 <!DOCTYPE html>
 <html>
-<link rel="stylesheet" type="text/css" href="main.css">
+    <link rel="stylesheet" type="text/css" href="main.css">
 
-<body bgcolor="#000000">
-    <div align="center">
-        <video class="test" autoplay muted loop>
-            <source src="/media/adam/The Vault/Documents/DigitalArt/_AfterEffects Practice/particleStuff2_AME/Comp 2.mp4"
-                type="video/mp4" />
-        </video>
-    </div>
-</body>
+    <body bgcolor="#000000">                
+        <table>
+            <tr>
+                <td>
+                <button onclick="slowDownVideo()" type="button">
+                    Slow Video Speed
+                </button>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <video id="testVideo" autoplay muted loop>
+                        <source src="/media/adam/The Vault/Documents/DigitalArt/_AfterEffects Practice/particleStuff2_AME/Comp 2.mp4"
+                            type="video/mp4">
+                    </video>
+                </td>
+            </tr>
+        </table>
+        <script src="playback.js"></script>
+    </body>
 
 </html>
