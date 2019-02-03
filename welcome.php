@@ -35,25 +35,25 @@
         if(!empty($sql)){
             $query .= ' WHERE ' . implode(' AND ', $sql);
         }
-        echo $query;
+
         echo "<div>";
-        echo "<table><thead><tr>";
-        //echo "<th>ID</th>";
-        echo "<th>City</th>";
-        echo "<th>District</th>";
+        echo "<table><tbody><tr>";
+        echo "<th>ID</th>";
+        echo "<th align='center'>City</th>";
+        echo "<th align='center'>District</th>";
         echo "<th>Country</th>";
-        echo "<th>Population</th>";
-        echo "</tr></thead><tbody>";
+        echo "<th>Population</th></tr>";
+        
         $result = $_SESSION['conn']->query($query);
 
         if ($result->num_rows > 0) {
             while($row = $result->fetch_assoc()) {                
                 echo "<tr>";
-                //echo "<td>".utf8_encode($row["ID"])."</td>";
+                echo "<td align='center'>".utf8_encode($row["ID"])."</td>";
                 echo "<td>".utf8_encode($row["Name"])."</td>";
                 echo "<td>".utf8_encode($row["District"])."</td>";
-                echo "<td>".utf8_encode($row["CountryCode"])."</td>";
-                echo "<td>".utf8_encode(number_format($row["Population"]))."</td>";
+                echo "<td align='center'>".utf8_encode($row["CountryCode"])."</td>";
+                echo "<td align='right'>".utf8_encode(number_format($row["Population"]))."</td>";
                 echo "</tr>";
             }
         } else { echo "<br>0 results"; }
