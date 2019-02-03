@@ -32,50 +32,32 @@ div.main {
 
 
 @keyframes example {
-    from {                                 
-        width: 50%;
-    }
-    to {         
-        width: 75%;
-    }
+    from { width: 50%; }
+    to { width: 75%; }
 }
 
-.test_shadow:hover {
-    animation-duration: 0.5s;    
+video.vid {
+    width: 50%; 
+    min-height: 100%;    
+    margin: 5px;        
+    box-shadow: 0px 4px 4px 0px rgba(0,0,0,1);
+    transition: width 0.25s cubic-bezier(0.19, 1, 0.22, 1);
 }
 
-#vid {
-    width: 50%;          
-    margin: 5px;
-    animation-name: example;
-    animation-timing-function: cubic-bezier(0.25, 0.46, 0.45, 0.94); 
-    animation-fill-mode: backwards; 
+video.vid:hover {
+    width: 61.7%;    
+    box-shadow: 0px 10px 15px 0px rgba(0,0,0,.8);
 }
 
-
-table {  
-    max-width: 100%;              
-    min-width: 50%;
-    height: 61.7%;       
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
 
 @keyframes banner_ani {
-    from {        
-        opacity: 0;
-    }
-    to {        
-        opacity: 1;
-    }
+    from { opacity: 0; }
+    to { opacity: 1; }
 }
 
 
 .banner {
     animation: banner_ani;
-    animation-delay: 3s;
     animation-duration: 3s;
     animation-fill-mode: backwards;
     animation-timing-function: cubic-bezier(0.25, 0.46, 0.45, 0.94);    
@@ -93,3 +75,51 @@ table {
     font-size: 12px;
     color: #555555;
 }
+
+table {    
+    height: 61.7%;
+
+    position: fixed;         
+    top: 23.6%;
+    left: 50%;
+    transform: translate(-50%, -23.6%);
+    border-collapse: collapse;
+}
+
+tbody {
+    background-color: #f6f6f6;     
+    position: fixed;
+    max-height: 100%;    
+    overflow: auto;
+}
+
+thead, tr, th, tbody, td {
+    width: 100%;
+}
+
+
+th { 
+    background-color: #777777;
+    color: #efefef;
+    height: 50px;    
+    font-family: serif; 
+    font-weight: bold;
+}
+
+td {            
+    font-family: sans-serif; 
+    border-bottom: 1px solid #ccc;    
+}
+
+th, td {    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+td:hover { background-color: #f2f2f2; }
+tbody tr:hover { 
+    background-color: #ffffff;
+    box-shadow: 2px 2px 7px 0px rgba(0, 0, 0, .5);
+}
+
+
