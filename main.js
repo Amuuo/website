@@ -1,12 +1,17 @@
-function fade(element) {
-    var op = 0;
-    var timer = setInterval(function () {
-        if (op >= 1) clearInterval(timer);
-        element.style.opacity = op;
-        element.style.filter = 'alpha(opacity=' + op * 100 + ")";
-        op += op * 0.2 || 0.2;
-    }, 150);
-}
-var back = document.getElementById("videoHolder");
-back.style.opacity = 0;
-fade(back);
+window.onload = function() { //executes code after DOM loads
+    //--- select all <video> on the page
+    const vids = document.getElementsByTagName('video')
+    vids.foreach(function(item) {
+        item.currentTime = 500;
+    });
+    // Loop over the selected elements and add event listeners
+    for (let i = 0; i < vids.length; i++) {
+      vids[i].addEventListener('mouseover', function(e) { 
+        vids[i].play()
+      })
+      vids[i].addEventListener('mouseout', function(e) {
+        vids[i].pause()
+        vids[i].currentTime = 50;
+      })
+    }
+   }

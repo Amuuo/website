@@ -33,11 +33,15 @@ div.main {
 
 @keyframes example {
     from {                                 
-        opacity: 0;
+        width: 50%;
     }
     to {         
-        opacity: 1;
+        width: 75%;
     }
+}
+
+.test_shadow:hover {
+    animation-duration: 0.5s;    
 }
 
 #vid {
@@ -48,22 +52,10 @@ div.main {
     animation-fill-mode: backwards; 
 }
 
-.test_shadow {   
-    animation-duration: 0.5s;    
-}
-
-.test_shadow2 {          
-    animation-duration: 0.5s;
-    animation-delay: 0.5s;    
-}
-
-.test_shadow3 {
-    animation-duration: 0.5s;
-    animation-delay: 1s;          
-}
 
 table {  
-    width: 100%;              
+    max-width: 100%;              
+    min-width: 50%;
     height: 61.7%;       
     position: absolute;
     top: 50%;
