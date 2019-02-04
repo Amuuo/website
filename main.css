@@ -1,1 +1,71 @@
-/var/www/html/main.css
+#tBodyContainer {
+    position: absolute;
+    height: 400px;
+    overflow-y: scroll;     
+}
+
+#tHeadContainer {   
+    top: 50%;
+    height: fit-content;
+    position: static;
+    color: black;
+    font-weight: bold;
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; /* in case block elements are used inside table cells */
+}
+
+#tableContainer {
+    position: static;
+}
+
+table {
+    border-collapse: collapse;
+    table-layout: fixed;
+    empty-cells: show;
+}
+
+div#tableContainer {
+    width: 500px;
+    margin: 40px; /* just for presentation purposes */
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+    padding: 4px;
+}
+/*
+tbody {
+    background-color: #fcfcfc;     
+    height: 100%;
+    position: fixed;
+    align-items: stretch;
+    overflow: auto;    
+}
+th { 
+    background-color: #777777;
+    font-size: 14;
+    color: #efefef;
+    height: 60px;    
+    font-family: serif; 
+    font-weight: bold;
+}
+td {           
+    font-family: sans-serif; 
+    border-bottom: 1px solid #ccc;    
+}
+*/
+
+th, td {    
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+td:hover { background-color: #f1e1d1; }
+tbody tr:hover { 
+    background-color: #ffffff;
+    box-shadow: 0px 3px 15px 0px rgba(0, 0, 0, .5);
+}
