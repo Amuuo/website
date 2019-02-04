@@ -1,46 +1,47 @@
 
 <!DOCTYPE html>
 <html>
-<link rel="stylesheet" type="text/css" href="login.css">
+<link rel="stylesheet" type="text/css" href="main.css">
 <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
 
-<body bgcolor="#f2f2f2">                                 
-    
-    <form action="login_check.php" method="get|post">                
-        <table>            
-            <thead>        
-                <tr><td colspan="2" align="center" style="font-size: 30px;"> Sign In </td></tr>
-                <tr><td height=30 colspan="2"></td></tr>
-            </thead>
-            
-            <tbody align="center">  
-                <div>                  
-                    <tr>
-                        <td align="right">User:</td>
-                        <td align="left"><input type="text" name="username"></td>
-                    </tr>
-                    <tr>
-                        <td align="right">Password:</td>
-                        <td align="left"><input type="password" name="password"></td>
-                    </tr>
-                    <tr>
-                        <td height=40 colspan="2" align="center">
-                            <?php
-                                session_start();
-                                if ($_SESSION['login_error']){
-                                    echo "<p align='center' style='color: red;'>Invalid Username/Password</p>";
-                                    $_SESSION['login_error'] = false;
-                            }?>
-                        </td>
-                    </tr>
+<body bgcolor="#f2f2f2">    
+    <form action="login_check.php" method="get|post">
+        <div id="page">
+            <div id="tableContainer">   
+                <div style="height: 30px;"></div>
+                <div id="tableTitle" align="center"> Sign In </div>                          
+                <div id="tableSpacer"></div>
+                <div id="tableCell" align="center">Username</div>
+                <div id="tableCell" align="center"><input type="text" name="username"></div>            
+                <div style="height: 10px;"></div>
+                <div id="tableCell" align="center">Password</div>
+                <div id="tableCell" align="center"><input type="password" name="password"></div>                
+                <?php
+                session_start();
+                if ($_SESSION['login_error']) {
+                    echo "<div id='tableCell' align='center'>";
+                    echo "<p align='center' style='color: red;'>Invalid Username/Password</p>";
+                    echo "</div>";
+                    $_SESSION['login_error'] = false;
+                } 
+                else {
+                    echo "<div id='tableSpacer'></div>";
+                }
+                ?>                                               
+                <div id="tableCell">
+                    <input type="submit" value="Login">
+                </div>    
+                <div style="height: 5px;"></div>     
+                <div style="height: 30px;" id="tableCell">
+                    Not A Member?&nbsp;    
+                    <a href="register.php">
+                        Register
+                    </a>
                 </div>
-                <tr>
-                    <td align="center" colspan="2"><input type="submit"></td>
-                </tr>
-            </tbody>
-        </table> 
-        
-
+                <div style="height: 5px;"></div>
+            </div>              
+        </div>    
     </form> 
 </body>
 
