@@ -5,6 +5,7 @@
 <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 
 <body bgcolor="#f2f2f2">                                 
+    
     <form action="login_check.php" method="get|post">                
         <table>            
             <thead>        
@@ -12,24 +13,34 @@
                 <tr><td height=30 colspan="2"></td></tr>
             </thead>
             
-            <tbody align="center">    
-                <tr>
-                    <td align="right">User:</td>
-                    <td align="left"><input type="text" name="username"></td>
-                </tr>
-                <tr>
-                    <td align="right">Password:</td>
-                    <td align="left"><input type="password" name="password"></td>
-                </tr>
-                <tr>
-                    <td height=40></td>
-                </tr>
+            <tbody align="center">  
+                <div>                  
+                    <tr>
+                        <td align="right">User:</td>
+                        <td align="left"><input type="text" name="username"></td>
+                    </tr>
+                    <tr>
+                        <td align="right">Password:</td>
+                        <td align="left"><input type="password" name="password"></td>
+                    </tr>
+                    <tr>
+                        <td height=40 colspan="2" align="center">
+                            <?php
+                                session_start();
+                                if ($_SESSION['login_error']){
+                                    echo "<p align='center' style='color: red;'>Invalid Username/Password</p>";
+                                    $_SESSION['login_error'] = false;
+                            }?>
+                        </td>
+                    </tr>
+                </div>
                 <tr>
                     <td align="center" colspan="2"><input type="submit"></td>
                 </tr>
             </tbody>
-
         </table> 
+        
+
     </form> 
 </body>
 

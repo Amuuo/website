@@ -36,13 +36,13 @@
             $query .= ' WHERE ' . implode(' AND ', $sql);
         }
 
-        echo "<div>";
-        echo "<table><tbody><tr>";
-        echo "<th>ID</th>";
-        echo "<th align='center'>City</th>";
-        echo "<th align='center'>District</th>";
-        echo "<th>Country</th>";
-        echo "<th>Population</th></tr>";
+        echo "<div><div id='tableContainer'><div id='tHeadContainer'>";
+        echo "<table id='tHead'><tr>";
+        echo "<td>ID</td>";
+        echo "<td>City</td>";
+        echo "<td>District</td>";
+        echo "<td>Country</td>";
+        echo "<td>Population</td></tr></table></div><div id='tBodyContainer'><table id='tBody'>";
         
         $result = $_SESSION['conn']->query($query);
 
@@ -57,8 +57,9 @@
                 echo "</tr>";
             }
         } else { echo "<br>0 results"; }
-        echo "</tbody></table></div>";
+        echo "</table></div></div></div>";
         $_SESSION['conn']->close(); 
+        
     ?>
     <script src="sql_test.js"></script>
 </body>

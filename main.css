@@ -1,22 +1,50 @@
-table {        
-    height: 61.7%;    
-    width: 72%;
-    position: fixed;         
-    top: 23.6%;
-    left: 50%;
-    border-collapse: collapse;
-    -webkit-transform: translate(-50%, -23.6%);
-    transform: translate(-50%, -23.6%);
-    box-shadow: 0px 20px 30px 0px rgba(0, 0, 0, .7);
+
+#tBodyContainer {
+    position: absolute;
+    height: 400px;
+    overflow-y: scroll;     
 }
 
+#tHeadContainer {   
+    top: 50%;
+    height: fit-content;
+    position: static;
+    color: black;
+    font-weight: bold;
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; /* in case block elements are used inside table cells */
+}
+
+#tableContainer {
+    position: static;
+}
+
+table {
+    border-collapse: collapse;
+    table-layout: fixed;
+    empty-cells: show;
+}
+
+div#tableContainer {
+    width: 500px;
+    margin: 40px; /* just for presentation purposes */
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+    padding: 4px;
+}
+/*
 tbody {
     background-color: #fcfcfc;     
     height: 100%;
     position: fixed;
     align-items: stretch;
     overflow: auto;    
-
 }
 
 
@@ -33,6 +61,7 @@ td {
     font-family: sans-serif; 
     border-bottom: 1px solid #ccc;    
 }
+*/
 
 th, td {    
     padding-left: 10px;
