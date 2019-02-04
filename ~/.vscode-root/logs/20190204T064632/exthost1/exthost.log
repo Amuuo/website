@@ -1,0 +1,1028 @@
+[2019-02-04 06:46:34.093] [exthost] [info] extension host started
+[2019-02-04 06:46:34.107] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-02-04 06:46:34.107] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-02-04 06:46:34.110] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-02-04 06:46:34.110] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/emmet/dist/extension
+[2019-02-04 06:46:34.120] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-02-04 06:46:34.120] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/git/dist/main
+[2019-02-04 06:46:34.190] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-02-04 06:46:34.190] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/merge-conflict/dist/extension
+[2019-02-04 06:46:34.194] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"activationEvent":"*"}
+[2019-02-04 06:46:34.194] [exthost] [info] ExtensionService#loadCommonJSModule /home/adam/.vscode-insiders/extensions/zignd.html-css-class-completion-1.18.0/out/src/extension
+[2019-02-04 06:46:34.385] [exthost] [info] eager extensions activated
+[2019-02-04 06:46:47.849] [exthost] [info] extension host started
+[2019-02-04 06:46:47.858] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-02-04 06:46:47.858] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-02-04 06:46:47.861] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-02-04 06:46:47.861] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/emmet/dist/extension
+[2019-02-04 06:46:47.870] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-02-04 06:46:47.870] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/git/dist/main
+[2019-02-04 06:46:47.940] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-02-04 06:46:47.940] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/merge-conflict/dist/extension
+[2019-02-04 06:46:47.943] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"activationEvent":"*"}
+[2019-02-04 06:46:47.943] [exthost] [info] ExtensionService#loadCommonJSModule /home/adam/.vscode-insiders/extensions/zignd.html-css-class-completion-1.18.0/out/src/extension
+[2019-02-04 06:46:48.276] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client {"startup":true,"activationEvent":"workspaceContains:**/*.php"}
+[2019-02-04 06:46:48.277] [exthost] [info] ExtensionService#loadCommonJSModule /home/adam/.vscode-insiders/extensions/bmewburn.vscode-intelephense-client-0.8.8/out/src/extension
+[2019-02-04 06:46:48.339] [exthost] [info] ExtensionService#_doActivateExtension felixfbecker.php-intellisense {"startup":true,"activationEvent":"workspaceContains:**/*.php"}
+[2019-02-04 06:46:48.339] [exthost] [info] ExtensionService#loadCommonJSModule /home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/out/extension
+[2019-02-04 06:46:48.417] [exthost] [info] eager extensions activated
+[2019-02-04 06:47:00.435] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2019-02-04 06:47:00.435] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/css-language-features/client/dist/cssMain
+[2019-02-04 06:48:30.074] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"activationEvent":"onLanguage:php"}
+[2019-02-04 06:48:30.074] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/php-language-features/dist/phpMain
+[2019-02-04 06:48:30.086] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":false,"activationEvent":"onLanguage:php"}
+[2019-02-04 06:48:30.086] [exthost] [info] ExtensionService#loadCommonJSModule /home/adam/.vscode-insiders/extensions/ecmel.vscode-html-css-0.2.0/out/src/extension
+[2019-02-04 06:48:30.259] [exthost] [info] ExtensionService#_doActivateExtension rifi2k.format-html-in-php {"startup":false,"activationEvent":"onLanguage:php"}
+[2019-02-04 06:48:30.259] [exthost] [info] ExtensionService#loadCommonJSModule /home/adam/.vscode-insiders/extensions/rifi2k.format-html-in-php-1.5.1/out/extension
+[2019-02-04 06:48:30.342] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-02-04 06:48:30.342] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-02-04 06:48:30.384] [exthost] [info] ExtensionService#_doActivateExtension leizongmin.node-module-intellisense {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-02-04 06:48:30.384] [exthost] [info] ExtensionService#loadCommonJSModule /home/adam/.vscode-insiders/extensions/leizongmin.node-module-intellisense-1.5.0/out/src/extension
+[2019-02-04 06:48:30.386] [exthost] [info] ExtensionService#_doActivateExtension mohd-akram.vscode-html-format {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-02-04 06:48:30.386] [exthost] [info] ExtensionService#loadCommonJSModule /home/adam/.vscode-insiders/extensions/mohd-akram.vscode-html-format-0.0.3/out/extension
+[2019-02-04 06:50:01.905] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-02-04 06:50:01.905] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/typescript-language-features/dist/extension
+[2019-02-04 06:50:57.143] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-02-04 06:50:57.143] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/configuration-editing/dist/extension
+[2019-02-04 06:50:57.167] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-02-04 06:50:57.168] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-02-04 06:51:24.940] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 06:51:24.942] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 06:51:25.901] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 06:51:25.901] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 06:51:26.258] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 06:51:26.258] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 06:51:26.807] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 06:51:26.807] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 06:51:27.818] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 06:51:27.818] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 06:51:28.447] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 06:51:28.447] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 06:51:37.850] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 06:51:37.850] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 06:53:05.699] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 06:53:05.701] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 06:53:23.972] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 06:53:23.973] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 06:59:06.748] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 06:59:06.748] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 06:59:09.949] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 06:59:09.949] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 06:59:43.710] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 06:59:43.711] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 07:18:22.098] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 07:18:22.098] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 07:58:09.490] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 07:58:09.491] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 07:58:09.891] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 07:58:09.892] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 07:58:10.092] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 07:58:10.093] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 07:58:10.693] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 07:58:10.693] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 07:58:10.895] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 07:58:10.895] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 08:00:42.571] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 08:00:42.571] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 08:00:42.849] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 08:00:42.850] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 08:00:43.541] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 08:00:43.541] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 08:02:05.866] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 08:02:05.867] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 08:02:19.718] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 08:02:19.719] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 08:02:19.959] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 08:02:19.959] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 08:02:21.286] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 08:02:21.286] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 08:39:38.371] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 08:39:38.371] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 08:39:42.214] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 08:39:42.214] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 08:39:43.366] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 08:39:43.366] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:02:41.790] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:02:41.791] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:02:41.994] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:02:41.994] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:02:42.390] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:02:42.390] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:02:43.774] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:02:43.774] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:02:44.902] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:02:44.903] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:02:45.287] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:02:45.288] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:02:46.625] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:02:46.625] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:03:25.384] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:03:25.384] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:03:25.729] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:03:25.729] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:03:26.105] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:03:26.106] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:03:34.851] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:03:34.851] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:03:35.547] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:03:35.547] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:03:35.941] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:03:35.942] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:03:36.850] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:03:36.850] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:03:37.932] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:03:37.933] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:03:45.456] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:03:45.457] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:03:56.374] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:03:56.374] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:03:56.574] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:03:56.574] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:03:56.874] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:03:56.874] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:03:57.985] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:03:57.985] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:04:07.772] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:04:07.772] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:04:08.215] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:04:08.215] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:04:43.137] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:04:43.137] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:05:15.868] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:05:15.868] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:05:16.773] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:05:16.774] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:05:17.558] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:05:17.558] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:05:18.086] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:05:18.086] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:05:20.101] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:05:20.101] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:05:20.607] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:05:20.608] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:05:20.806] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:05:20.807] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:05:21.811] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:05:21.811] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:05:22.011] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:05:22.012] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:05:23.011] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:05:23.012] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:05:32.538] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:05:32.539] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:05:36.827] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:05:36.827] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:05:38.469] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:05:38.469] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:05:51.918] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:05:51.919] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:05:53.746] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:05:53.746] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:37:45.958] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:37:45.958] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:37:47.026] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:37:47.027] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:37:47.689] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:37:47.690] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:37:48.301] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:37:48.301] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:37:48.694] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:37:48.694] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:37:48.997] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:37:48.998] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:37:49.374] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:37:49.374] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:37:49.734] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:37:49.734] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:37:50.278] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:37:50.279] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:37:50.433] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:37:50.433] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:37:51.125] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:37:51.125] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:38:01.366] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:38:01.367] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:38:01.723] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:38:01.723] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:38:02.247] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:38:02.247] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:38:09.576] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:38:09.576] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:38:10.319] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:38:10.319] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:38:10.915] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:38:10.915] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:39:24.355] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:39:24.355] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:39:24.694] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:39:24.695] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:39:25.665] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:39:25.665] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:39:26.287] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:39:26.287] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:39:27.159] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:39:27.159] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:39:44.051] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:39:44.051] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:39:44.366] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:39:44.366] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:39:45.046] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:39:45.046] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:40:03.354] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:40:03.354] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:40:19.684] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:40:19.684] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:41:04.524] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:41:04.525] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:41:05.823] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:41:05.823] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:41:32.578] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:41:32.579] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:41:33.971] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:41:33.971] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:41:49.564] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:41:49.564] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:44:04.830] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:44:04.830] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:44:05.343] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:44:05.343] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:44:17.002] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:44:17.002] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:44:22.973] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:44:22.973] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:54:46.790] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:54:46.790] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 09:54:47.090] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 09:54:47.090] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:28:11.267] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:28:11.267] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:28:16.271] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:28:16.273] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:28:16.575] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:28:16.575] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:29:48.226] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:29:48.227] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:29:50.027] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:29:50.027] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:29:50.809] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:29:50.809] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:30:09.913] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:30:09.913] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:44:30.030] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:44:30.031] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:45:35.346] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:45:35.346] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:45:37.638] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:45:37.638] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:45:37.999] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:45:38.000] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:45:38.314] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:45:38.314] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:45:38.512] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:45:38.513] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:46:41.876] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:46:41.877] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:46:45.027] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:46:45.028] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:46:45.369] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:46:45.369] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:46:45.782] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:46:45.782] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:46:46.174] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:46:46.174] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:46:46.862] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:46:46.862] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:46:47.235] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:46:47.235] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:46:47.807] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:46:47.808] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:46:48.114] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:46:48.114] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:46:49.358] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:46:49.358] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:46:49.766] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:46:49.767] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:46:50.306] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:46:50.307] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:46:51.288] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:46:51.289] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:46:51.601] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:46:51.601] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:46:53.113] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:46:53.114] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:46:53.594] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:46:53.594] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:46:57.778] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:46:57.778] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:46:59.094] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:46:59.094] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:47:00.758] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:47:00.758] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:47:01.202] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:47:01.202] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:47:03.565] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:47:03.565] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:47:06.181] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:47:06.181] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-02-04 10:47:07.830] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-02-04 10:47:07.830] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:728)
+    at new e (/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:332:538)
+    at asPosition (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/adam/.vscode-insiders/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)

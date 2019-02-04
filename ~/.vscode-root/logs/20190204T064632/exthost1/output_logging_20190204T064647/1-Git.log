@@ -1,0 +1,2143 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/adam/git/website
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git show :login.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :login.css
+> git show :login2.css
+> git ls-files --stage -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :main.css
+> git show :login.php
+> git show :main.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :login_check.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :form.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :welcome.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :sql_test.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :login.php
+> git show :login.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git show :login_check.php
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :form.php
+> git show :main.css
+> git show :login.php
+> git show :~/.vscode-root/User/settings.json
+> git check-ignore -z --stdin
+> git show :welcome.php
+> git show :login_check.php
+> git show :form.php
+> git show :login_check.php
+> git show :form.php
+> git show :login_check.php
+> git show :welcome.php
+> git show :main.css
+> git show :~/.vscode-root/User/settings.json
+> git show :login.php
+> git show :login.css
+> git show :login_check.php
+> git show :main.css
+> git show :welcome.php
+> git show :main.css
+> git show :login_check.php
+> git show :login.css
+> git show :login_check.php
+> git show :form.php
+> git show :login_check.php
+> git show :login.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :welcome.php
+> git show :~/.vscode-root/User/settings.json
+> git show :form.php
+> git show :welcome.php
+> git show :login.css
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/adam/git/tres_dias
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :North Texas Tres Dias.html
+> git ls-files --stage -- ./
+> git show :login.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :login.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :welcome.php
+> git show :login.css
+> git show :main.css
+> git show :login.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :login.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :login.php
+> git show :North Texas Tres Dias.html
+> git ls-files --stage -- ./
+> git show :login_check.php
+> git show :login.css
+> git show :main.css
+> git show :welcome.php
+> git show :login.php
+> git show :login.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :login.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :login.css
+> git show :login.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :login.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :login.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :login.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :login.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :login.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :login.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :login.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :login.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :login_check.php
+> git show :login.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :login.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :login.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :login.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :login_check.php
+> git show :North Texas Tres Dias.html
+> git ls-files --stage -- ./
+> git show :form.php
+> git show :login.php
+> git show :login.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :North Texas Tres Dias.html
+> git ls-files --stage -- ./
+> git show :login.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :login.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse grid_testing2
+> git rev-parse --symbolic-full-name grid_testing2@{u}
+> git rev-list --left-right grid_testing2...refs/remotes/origin/grid_testing2
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose

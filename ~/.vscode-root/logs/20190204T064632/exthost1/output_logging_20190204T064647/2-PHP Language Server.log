@@ -1,0 +1,16 @@
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+DEBUG     The xdebug extension is not loaded
+
+[Info  - 6:46:48 AM] 4 files total
+[Info  - 6:46:48 AM] Indexing project for definitions and static references
+Parsing file:///home/adam/git/website/login_check.php
+Parsing file:///home/adam/git/website/welcome.php
+Parsing file:///home/adam/git/website/form.php
+Parsing file:///home/adam/git/website/login.php
+[Info  - 6:46:48 AM] Indexing project for dynamic references
+Parsing file:///home/adam/git/website/login_check.php
+Parsing file:///home/adam/git/website/welcome.php
+Parsing file:///home/adam/git/website/form.php
+Parsing file:///home/adam/git/website/login.php
+[Info  - 6:46:48 AM] 0 Packages
+[Info  - 6:46:48 AM] All 4 PHP files parsed in 0 seconds. 146 MiB allocated.
